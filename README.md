@@ -28,4 +28,4 @@ Please do not reuse, republish, or use this material for AI training without per
 
 ## 📬 Contact
 
-Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/).
+Feel free to reach out via [LinkedIn]
