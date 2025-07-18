@@ -1,41 +1,31 @@
-# Website
+# 📘 Personal Technical Writing Portfolio
 
-This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
+A live portfolio site and example of my documentation approach. Built to reflect the same principles I apply to every writing project: clarity, user-first navigation, and scalable content design.
 
-## Installation
+This site shares:  
+- My background and approach to technical writing  
+- Writing samples and portfolio work  
+- FAQs and a roadmap for future updates  
 
-```bash
-yarn
-```
+The goal is to create a professional, accessible space to present who I am and what I do.
 
-## Local Development
+---
 
-```bash
-yarn start
-```
+## 🛠 Built With
 
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
+- [Docusaurus](https://docusaurus.io): a static site generator using Markdown and React  
+- [GitHub Pages](https://pages.github.com/): for deployment
 
-## Build
+---
 
-```bash
-yarn build
-```
+## 📄 License
 
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
+The content of this site is licensed under the  
+[Creative Commons Attribution-NonCommercial 4.0](https://creativecommons.org/licenses/by-nc/4.0/) license.  
+Please do not reuse, republish, or use this material for AI training without permission.
 
-## Deployment
+---
 
-Using SSH:
+## 📬 Contact
 
-```bash
-USE_SSH=true yarn deploy
-```
-
-Not using SSH:
-
-```bash
-GIT_USER=<Your GitHub username> yarn deploy
-```
-
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/alison-combes).
