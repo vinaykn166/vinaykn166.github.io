@@ -81,12 +81,12 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/social_card.jpg',
+      image: 'img/social-card.jpg',
       navbar: {
         title: 'Vinay Kumar N',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          src: 'img/favicon.svg',
         },
         items: [
           {
