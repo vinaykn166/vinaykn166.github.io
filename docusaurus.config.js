@@ -81,7 +81,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/social-card.jpeg',
+      image: 'img/docusaurus-social-card.jpeg',
       navbar: {
         title: 'Vinay Kumar N',
         logo: {
