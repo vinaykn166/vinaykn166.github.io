@@ -4,12 +4,12 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
+    title: 'Clear, User-Focused Content',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        I write clear, accessible documentation that helps users succeed, 
+        from onboarding to advanced tasks.
       </>
     ),
   },
@@ -53,6 +53,7 @@ export default function HomepageFeatures() {
   return (
     <section className={styles.features}>
       <div className="container">
+        <Heading as="h2" className="text--center">What I Bring to Your Team</Heading>
         <div className="row">
           {FeatureList.map((props, idx) => (
             <Feature key={idx} {...props} />
