@@ -110,8 +110,8 @@ const config = {
              title: 'Docs',
             items: [
               {
-                label: 'About',
-                to: '/docs/about',
+                label: 'Tutorial',
+                to: '/docs/tutorial',
               },
              
             ],
