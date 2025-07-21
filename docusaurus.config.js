@@ -12,7 +12,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 const config = {
   title: 'Vinay Kumar N - Technical Writer',
   tagline: 'Complex ideas, clearly explained; user-first documentation that works.',
-  favicon: 'img/favicon.ico',
+  favicon: 'static\img\fevicon.svg',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
   future: {
@@ -81,9 +81,9 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/docusaurus-social-card.jpg',
+      image: 'img/social_card.jpg',
       navbar: {
-        title: 'My Site',
+        title: 'Vinay Kumar N',
         logo: {
           alt: 'My Site Logo',
           src: 'img/logo.svg',
