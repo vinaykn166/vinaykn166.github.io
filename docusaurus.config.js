@@ -81,12 +81,12 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/social-card.jpg',
+      image: 'img/social-card.jpeg',
       navbar: {
         title: 'Vinay Kumar N',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/favicon.svg',
+          src: 'img/fevicon.svg',
         },
         items: [
           {
@@ -107,11 +107,19 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+             title: 'Docs',
             items: [
               {
-                label: 'Tutorial',
+                label: 'About',
+                to: '/docs/about',
+              },
+              {
+                label: 'Overview',
                 to: '/docs/intro',
+              },
+              {
+                label: 'FAQs',
+                to: '/faqs',
               },
             ],
           },
@@ -146,7 +154,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Vinay Kumar N, Inc. Built with Docusaurus.`,
       },
       prism: {
         theme: prismThemes.github,
