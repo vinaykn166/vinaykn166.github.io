@@ -6,7 +6,7 @@
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://vinaykn166.github.io/blog"/>
     <subtitle>Vinay Kumar N - Technical Writer Blog</subtitle>
-    <icon>https://vinaykn166.github.io/img/favicon.ico</icon>
+    <icon>https://vinaykn166.github.io/staticimgevicon.svg</icon>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
         <id>https://vinaykn166.github.io/blog/welcome</id>
