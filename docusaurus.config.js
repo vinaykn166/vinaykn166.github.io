@@ -111,7 +111,7 @@ const config = {
             items: [
               {
                 label: 'Tutorial',
-                to: '/docs/intro',
+                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
               },
              
             ],
