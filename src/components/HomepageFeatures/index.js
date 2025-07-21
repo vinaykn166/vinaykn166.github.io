@@ -5,7 +5,7 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: 'Clear, User-Focused Content',
-    Svg: require('@site/static/img/undraw_programming_65t2').default,
+    Svg: require('@site/static/img/undraw_programming_65t2.svg').default,
     description: (
       <>
         I write clear, accessible documentation that helps users succeed, 
@@ -15,7 +15,7 @@ const FeatureList = [
   },
   {
     title: 'Efficient Collaboration',
-    Svg: require('@site/static/img/undraw_connecting-teams_nnjy').default,
+    Svg: require('@site/static/img/undraw_connecting-teams_nnjy.svg').default,
     description: (
       <>
         I work closely with engineers, designers, and subject matter experts 
@@ -25,7 +25,7 @@ const FeatureList = [
   },
   {
     title: 'Content That Scales',
-    Svg: require('@site/static/img/undraw_add-information_06qr').default,
+    Svg: require('@site/static/img/undraw_add-information_06qr.svg').default,
     description: (
       <>
         From style guides to structured content models, 
