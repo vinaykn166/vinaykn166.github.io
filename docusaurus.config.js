@@ -81,7 +81,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/docusaurus-social-card.jpeg',
+      image: 'img/social-card',
       navbar: {
         title: 'Vinay Kumar N',
         logo: {
@@ -111,7 +111,7 @@ const config = {
             items: [
               {
                 label: 'Tutorial',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                to: '/docs/intro',
               },
              
             ],
