@@ -113,14 +113,7 @@ const config = {
                 label: 'About',
                 to: '/docs/about',
               },
-              {
-                label: 'Overview',
-                to: '/docs/intro',
-              },
-              {
-                label: 'FAQs',
-                to: '/faqs',
-              },
+             
             ],
           },
           {
