@@ -96,6 +96,13 @@ const config = {
             label: 'Tutorial',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
+
+           {
+            to: '/faqs', // custom React page
+            label: 'FAQs',
+            position: 'left',
+          },
+
           {
             href: 'https://github.com/facebook/docusaurus',
             label: 'GitHub',
@@ -110,25 +117,32 @@ const config = {
              title: 'Docs',
             items: [
               {
-                label: 'Tutorial',
+                label: 'About',
+                to: '/docs/about',
+              },
+              {
+                label: 'Overview',
                 to: '/docs/intro',
               },
-             
+              {
+                label: 'FAQs',
+                to: '/faqs',
+              },
             ],
           },
           {
-            title: 'Community',
+            title: 'Links',
             items: [
               {
-                label: 'Stack Overflow',
+                label: 'LinkedIn',
                 href: 'https://stackoverflow.com/questions/tagged/docusaurus',
               },
               {
-                label: 'Discord',
+                label: 'Notion CV',
                 href: 'https://discordapp.com/invite/docusaurus',
               },
               {
-                label: 'X',
+                label: 'Calendly',
                 href: 'https://x.com/docusaurus',
               },
             ],

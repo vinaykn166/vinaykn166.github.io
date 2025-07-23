@@ -1,47 +1,25 @@
 ---
 sidebar_position: 1
+title: Introduction
+description: Introduction to the portfolio site by freelance technical writer, Alison Combes.
 ---
 
-# Tutorial Intro
+# Welcome to My Portfolio Project  
 
-Let's discover **Docusaurus in less than 5 minutes**.
+*A hands-on demonstration of how I approach technical documentation.*
 
-## Getting Started
+As a freelance **technical writer** with experience using React and Markdown, I built this site to explore **Docusaurus**, experiment with developer-focused tooling, and showcase my ability to create structured, navigable, and developer-friendly content.
 
-Get started by **creating a new site**.
+This project gave me the opportunity to apply those skills in a real-world context. I designed and built a modern documentation site from the ground up.
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+Feel free to explore. The layout, organization, and tone are all intentional: focused on **usability**, clarity, and a strong developer experience.
 
-### What you'll need
+If you're looking for a writer who can deliver **concise**, technically accurate documentation that integrates smoothly into your workflow, I’d love to connect.
 
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+---
 
-## Generate a new site
+## Where to Start?
 
-Generate a new Docusaurus site using the **classic template**.
-
-The classic template will automatically be added to your project after you run the command:
-
-```bash
-npm init docusaurus@latest my-website classic
-```
-
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+- Curious about who I am? Head to the **[About Me](../docs/about)** section.  
+- Want to see samples? Visit the **[Portfolio](../docs/portfolio)**. _(work in progress)_
+- Or dip into the **[FAQs](../faqs)**.
